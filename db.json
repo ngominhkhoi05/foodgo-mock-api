@@ -158,7 +158,13 @@
       "name": "Cơm tấm sườn",
       "basePrice": 45000,
       "imageUrl": "https://picsum.photos/seed/comtam/300/300",
-      "isFeatured": true
+      "isFeatured": true,
+      "lat": 10.8465,
+      "lng": 106.7945,
+      "distance": 1.2,
+      "rating": 4.8,
+      "reviewCount": 500,
+      "deliveryTime": "20-30 phút"
     },
     {
       "id": "prod_002",
@@ -166,7 +172,13 @@
       "name": "Bún bò",
       "basePrice": 50000,
       "imageUrl": "https://picsum.photos/seed/bunbo/300/300",
-      "isFeatured": true
+      "isFeatured": true,
+      "lat": 10.8500,
+      "lng": 106.8000,
+      "distance": 2.8,
+      "rating": 4.7,
+      "reviewCount": 320,
+      "deliveryTime": "15-25 phút"
     },
     {
       "id": "prod_003",
@@ -174,7 +186,13 @@
       "name": "Pizza",
       "basePrice": 120000,
       "imageUrl": "https://picsum.photos/seed/pizza/300/300",
-      "isFeatured": true
+      "isFeatured": true,
+      "lat": 10.8400,
+      "lng": 106.7900,
+      "distance": 1.5,
+      "rating": 4.6,
+      "reviewCount": 800,
+      "deliveryTime": "20-40 phút"
     },
     {
       "id": "prod_004",
@@ -182,7 +200,13 @@
       "name": "Trà sữa",
       "basePrice": 40000,
       "imageUrl": "https://picsum.photos/seed/trasua/300/300",
-      "isFeatured": true
+      "isFeatured": true,
+      "lat": 10.8450,
+      "lng": 106.7920,
+      "distance": 0.9,
+      "rating": 4.9,
+      "reviewCount": 1500,
+      "deliveryTime": "10-20 phút"
     },
     {
       "id": "prod_005",
@@ -190,7 +214,13 @@
       "name": "Cà phê",
       "basePrice": 35000,
       "imageUrl": "https://picsum.photos/seed/cafe/300/300",
-      "isFeatured": true
+      "isFeatured": true,
+      "lat": 10.8480,
+      "lng": 106.7970,
+      "distance": 1.1,
+      "rating": 4.7,
+      "reviewCount": 900,
+      "deliveryTime": "10-20 phút"
     }
   ]
 }

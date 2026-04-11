@@ -121,7 +121,7 @@
     },
     {
       "id": "prod_005",
-      "storeId": "store_007",
+      "storeId": "store_005",
       "name": "Cà phê",
       "basePrice": 35000,
       "imageUrl": "https://picsum.photos/seed/cafe/300/300",
@@ -151,7 +151,7 @@
     },
     {
       "id": "prod_005",
-      "storeId": "store_007",
+      "storeId": "store_005",
       "name": "Cà phê sữa đá",
       "basePrice": 35000,
       "imageUrl": "https://picsum.photos/seed/cafe1/300/300",
@@ -166,7 +166,7 @@
   ],
   "SearchResultItem": [
     {
-      "id": "search_001",
+      "id": "p_apple_15pm",
       "productName": "iPhone 15 Pro Max 256GB",
       "productImageUrl": "https://example.com/images/iphone15.jpg",
       "price": 29990000.0,
@@ -178,7 +178,7 @@
       "storeId": "s_apple_vn"
     },
     {
-      "id": "search_003",
+      "id": "p_keychron_k2",
       "productName": "Bàn phím cơ Keychron K2 V2",
       "productImageUrl": "https://example.com/images/keychron_k2.jpg",
       "price": 1850000.0,
@@ -190,7 +190,7 @@
       "storeId": "s_siliconz"
     },
     {
-      "id": "search_004",
+      "id": "p_logi_mx3s",
       "productName": "Chuột Logitech MX Master 3S",
       "productImageUrl": "https://example.com/images/mx_master_3s.jpg",
       "price": 2350000.0,
@@ -202,7 +202,7 @@
       "storeId": "s_logi_vn"
     },
     {
-      "id": "search_005",
+      "id": "p_dell_xps13",
       "productName": "Laptop Dell XPS 13 9315",
       "productImageUrl": "https://example.com/images/dell_xps13.jpg",
       "price": 32000000.0,
@@ -214,7 +214,7 @@
       "storeId": "s_laptop_vip"
     },
     {
-      "id": "search_006",
+      "id": "p_lg_dualup",
       "productName": "Màn hình LG DualUp 28MQ780",
       "productImageUrl": "https://example.com/images/lg_dualup.jpg",
       "price": 12900000.0,

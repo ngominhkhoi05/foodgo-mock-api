@@ -437,54 +437,6 @@
       "isOutOfStock": false,
       "productId": "p_lg_dualup",
       "storeId": "s_lg_vn"
-    },
-    {
-      "id": "search_007",
-      "productName": "Sạc dự phòng Anker 737 (GaNPrime 140W)",
-      "productImageUrl": "https://example.com/images/anker_737.jpg",
-      "price": 2800000.0,
-      "storeName": "Anker Flagship",
-      "rating": 4.8,
-      "reviewCount": 560,
-      "isOutOfStock": false,
-      "productId": "p_anker_737",
-      "storeId": "s_anker_official"
-    },
-    {
-      "id": "search_008",
-      "productName": "Đồng hồ Samsung Galaxy Watch 6",
-      "productImageUrl": "https://example.com/images/galaxy_watch6.jpg",
-      "price": 5490000.0,
-      "storeName": "Samsung Mall",
-      "rating": 4.4,
-      "reviewCount": 280,
-      "isOutOfStock": true,
-      "productId": "p_sam_watch6",
-      "storeId": "s_samsung_vn"
-    },
-    {
-      "id": "search_009",
-      "productName": "Máy ảnh Fujifilm X-T5",
-      "productImageUrl": "https://example.com/images/fuji_xt5.jpg",
-      "price": 41900000.0,
-      "storeName": "Fujifilm Studio",
-      "rating": 4.9,
-      "reviewCount": 150,
-      "isOutOfStock": false,
-      "productId": "p_fuji_xt5",
-      "storeId": "s_fuji_vn"
-    },
-    {
-      "id": "search_010",
-      "productName": "Loa Marshall Emberton II",
-      "productImageUrl": "https://example.com/images/marshall_em2.jpg",
-      "price": 3950000.0,
-      "storeName": "Ash Asia Store",
-      "rating": 4.7,
-      "reviewCount": 980,
-      "isOutOfStock": false,
-      "productId": "p_marshall_em2",
-      "storeId": "s_ash_asia"
     }
   ]
 }
